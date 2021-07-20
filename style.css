@@ -1,0 +1,22 @@
+body{
+    background-image: url("1.gif");
+    background-position: center;
+    background-size: cover;
+    }
+    .heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    }
+    .note{
+    font-size: 15px;
+    color: black;
+    }
+    .one{
+    width:200px;
+    font-size:25px;
+    }
+    canvas{
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px whitesmoke;
+    }
